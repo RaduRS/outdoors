@@ -1,5 +1,6 @@
 body, html{
     background-image: url(images/wallpaper1.jpg);
+    /* background: linear-gradient(rgba(49, 210, 238, 0.568), rgba(50, 180, 45, 0.705)); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
